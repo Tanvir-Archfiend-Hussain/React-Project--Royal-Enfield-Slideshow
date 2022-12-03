@@ -1,7 +1,7 @@
 # React Project: Royal Enfield Slideshow
 <img src="https://cdn.motor1.com/images/mgl/vxoPWR/s3/royal-enfield-super-meteor-650---roadside-4.jpg" alt="" />
 
-#####  Royal Enfield Slideshow
+### Royal Enfield Slideshow
  JavaScript
  HTML
  CSS
